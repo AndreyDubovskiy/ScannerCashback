@@ -4,4 +4,5 @@ SQLAlchemy
 sqlalchemy[asyncio]
 pillow
 pyzbar
+pyzbar[scripts]
 aiosqlite
