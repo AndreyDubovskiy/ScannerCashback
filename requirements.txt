@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+aiohttp
+SQLAlchemy
+sqlalchemy[asyncio]
+pillow
+pyzbar
+aiosqlite
